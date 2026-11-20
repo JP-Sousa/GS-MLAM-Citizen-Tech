@@ -1,0 +1,5 @@
+﻿Modelo,n,β1,p-valor (bilateral),R²
+Principal (rendimento em R$),23716,102.544425,0.0,0.029254
+Logaritmo do rendimento,23716,0.061012,0.0,0.044973
+Sem o 1% de maiores rendimentos,23491,75.810616,0.0,0.040533
+Ponderado pelo peso amostral (WLS),23716,113.865239,0.0,0.03055

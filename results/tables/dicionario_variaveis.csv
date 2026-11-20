@@ -1,0 +1,14 @@
+﻿Variável,Descrição,Tipo
+Ano / Trimestre,Período de referência da entrevista,Identificação
+UF,Unidade da Federação (código IBGE de 2 dígitos; o 1º dígito indica a região),Categórica
+V1022,"Situação do domicílio: 1 = urbana, 2 = rural",Categórica
+V1028,Peso amostral (fator de expansão da pessoa),Quantitativa
+V2001,Número de pessoas no domicílio,Quantitativa
+V2007,"Sexo: 1 = homem, 2 = mulher",Categórica
+V2009,Idade (anos completos),Quantitativa
+V4039,Horas habitualmente trabalhadas por semana no trabalho principal (só ocupados),Quantitativa
+VD3005,Anos de estudo (0 a 16; 16 = 16 anos ou mais),Quantitativa / ordinal
+VD4001,"Condição na força de trabalho: 1 = na força de trabalho, 2 = fora da força de trabalho",Categórica
+VD4002,"Condição de ocupação: 1 = ocupada, 2 = desocupada (vazio para quem está fora da força)",Categórica
+VD4016,"Rendimento mensal habitual do trabalho principal, em R$ (só ocupados)",Quantitativa
+VD4031,Horas habitualmente trabalhadas por semana em todos os trabalhos (só ocupados),Quantitativa

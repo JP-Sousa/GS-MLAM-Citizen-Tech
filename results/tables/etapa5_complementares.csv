@@ -1,0 +1,3 @@
+﻿Teste,média do grupo (base completa),média da referência,diferença real (R$),p-valor (amostra),decisão (amostra),% de rejeição em 2.000 sorteios,p-valor (ref. global),decisão (ref. global)
+A — Nordeste < demais,1222.752158,1898.359694,-675.607536,0.003019,Rejeita H0,0.78,0.008596,Rejeita H0
+B — Sudeste > demais,1844.79584,1653.140215,191.655625,0.088363,Rejeita H0,0.1765,0.124509,Não rejeita H0

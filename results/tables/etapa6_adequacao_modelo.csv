@@ -1,0 +1,12 @@
+﻿Medida,Valor
+R²,"0,0293"
+R² ajustado,"0,0292"
+Estatística F,"714,63"
+p-valor do teste F,"< 0,0001"
+gl (modelo; resíduo),1; 23714
+β1 (R$ por ano de estudo),"102,54"
+IC 95% de β1,"[95,03 ; 110,06]"
+Estatística t de β1,"26,73"
+p-valor bilateral de β1,"< 0,0001"
+p-valor unilateral (H1: β1 > 0),"< 0,0001"
+Erro-padrão residual (R$),"1.410,48"

@@ -1,0 +1,5 @@
+﻿Modelo,β escolaridade,p-valor (bilateral),β idade,β horas,R²,R² ajustado
+Principal (rendimento em R$),98.948941,0.0,89.668415,36.174423,0.127609,0.127499
+Logaritmo do rendimento,0.062571,0.0,0.039811,0.030989,0.314223,0.314136
+Sem o 1% de maiores rendimentos,74.308001,0.0,70.655204,31.080926,0.219855,0.219755
+Ponderado pelo peso amostral (WLS),109.009709,0.0,104.641962,35.227606,0.117957,0.117845

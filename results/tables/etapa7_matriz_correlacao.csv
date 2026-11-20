@@ -1,0 +1,5 @@
+﻿,rendimento,anos_estudo,idade,horas_semanais
+rendimento,1.0,0.171,0.1732,0.2817
+anos_estudo,0.171,1.0,0.154,-0.0459
+idade,0.1732,0.154,1.0,0.0939
+horas_semanais,0.2817,-0.0459,0.0939,1.0

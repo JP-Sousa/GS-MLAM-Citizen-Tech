@@ -1,0 +1,13 @@
+﻿Etapa,Resultado,Valor,Leitura
+Etapa 4,"P(X < média), Normal","50,00%",Evento equiprovável (≈ 50%)
+Etapa 4,"P(X > mediana), Normal","58,07%",Evento provável (> 50%)
+Etapa 5,"Teste A: Nordeste < demais (α = 6%, n = 20)","p = 0,0030",Rejeita H0
+Etapa 5,"Teste B: Sudeste > demais (α = 9%, n = 25)","p = 0,0884",Rejeita H0
+Etapa 6,Correlação de Pearson (escolaridade × rendimento),"r = 0,171",fraca
+Etapa 6,Regressão simples: β1 (R$ por ano de estudo),"R$ 102,54","R² = 0,029; p(F) < 0,0001"
+Etapa 6,Previsão: 12 anos de estudo,"R$ 1.729,96",rendimento médio previsto
+Etapa 7,Regressão múltipla: β escolaridade (R$ por ano),"R$ 98,95","R² aj. = 0,127; p(F) < 0,0001"
+Etapa 7,"Previsão: 22 anos, 12 anos de estudo, 40 h","R$ 1.852,40",rendimento médio previsto
+Etapa 8,Logística: razão de chances por ano de estudo,"1,031","p unilateral < 0,0001"
+Etapa 8,"Acurácia no teste (limiar 0,5) vs. modelo ingênuo","86,7% vs. 86,7%","especificidade 0,0%; AUC 0,582"
+Etapa 8,"Cenário (22 anos, 12 anos de estudo, 4 moradores)","P(ocupado) = 88,0%",classificado como ocupado

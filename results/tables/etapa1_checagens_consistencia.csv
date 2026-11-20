@@ -1,0 +1,13 @@
+﻿Verificação,n_registros,% da base
+Idade fora do intervalo 18–24,0,0.0
+Período diferente de 2024/T4,0,0.0
+Anos de estudo ausentes ou fora de 0–16,0,0.0
+Peso amostral ausente ou ≤ 0,0,0.0
+Ocupados sem rendimento (VD4016 ausente),966,2.194
+Ocupados com rendimento ≤ 0,0,0.0
+Ocupados sem horas habituais (V4039 ausente),0,0.0
+Ocupados com mais de 84 h/semana (implausível ou muito extremo),18,0.041
+"VD4002 preenchida, mas fora da força de trabalho (VD4001 = 2)",0,0.0
+"Na força de trabalho (VD4001 = 1), mas VD4002 ausente",0,0.0
+Rendimento informado para quem não é ocupado,0,0.0
+Linhas totalmente duplicadas (mantidas; ver decisão 4),108,0.245

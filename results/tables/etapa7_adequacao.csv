@@ -1,0 +1,9 @@
+﻿Medida,Valor
+R²,"0,1276"
+R² ajustado,"0,1275"
+Estatística F,"1.156,16"
+p-valor do teste F,"< 0,0001"
+gl (modelo; resíduo),3; 23712
+p-valor unilateral de β1 (escolaridade > 0),"< 0,0001"
+Erro-padrão residual (R$),"1.337,17"
+AIC,"408.737,4"

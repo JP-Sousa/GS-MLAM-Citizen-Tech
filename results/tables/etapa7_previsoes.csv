@@ -1,0 +1,5 @@
+﻿cenário,idade,anos_estudo,horas_semanais,previsão (R$),IC 95% média — inf.,IC 95% média — sup.,IC 95% individual — inf.,IC 95% individual — sup.
+Cenário da proposta,22,12,40,1852.4,1834.27,1870.53,-768.6,4473.4
+"Menor escolaridade, mesma idade e jornada",22,8,40,1456.6,1423.42,1489.79,-1164.55,4077.75
+"Maior escolaridade, mesma idade e jornada",22,16,40,2248.19,2213.15,2283.24,-372.98,4869.37
+"Jovem de 18 anos, 12 anos de estudo, 40 h",18,12,40,1493.73,1458.73,1528.72,-1127.45,4114.9

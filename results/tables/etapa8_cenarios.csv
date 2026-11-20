@@ -1,0 +1,5 @@
+﻿cenário,idade,anos_estudo,tamanho_domicilio,P(ocupado),"classe (limiar 0,5)","classe (limiar 0,859)"
+Cenário da proposta,22,12,4,0.879513,Ocupado,Ocupado
+Menor escolaridade,22,8,4,0.865995,Ocupado,Ocupado
+Maior escolaridade,22,16,4,0.891838,Ocupado,Ocupado
+"Mais jovem, escolaridade intermediária, domicílio grande",18,11,6,0.781964,Ocupado,Desocupado
